@@ -20,7 +20,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 
 ## Application Flow 
-
+`
 ├── Header(User Icon @ Right)
 │   ├── Add Task
 |   └── User Name Display
@@ -33,7 +33,8 @@ It correctly bundles React in production mode and optimizes the build for the be
 │   └── Update Task
 ├── Sign In
 ├── Sign UP
-├── Footer
+├── Footer 
+`
 
 ## Steps
  1. Signup
